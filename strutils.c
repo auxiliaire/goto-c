@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #include "strutils.h"
 
 void fg_color(char* color)
