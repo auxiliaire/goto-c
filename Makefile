@@ -22,4 +22,4 @@ fib: $(OBJ)
 .PHONY: clean
 
 clean:
-	rm -f $(ODIR)/*.o *~ core $(IDIR)/*~
+	rm -f $(ODIR)/fib $(ODIR)/*.o *~ core $(IDIR)/*~
